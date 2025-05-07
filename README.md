@@ -81,6 +81,8 @@
 <a href = 'programandopanconqueso@hotmail.com'>  ![Outlook Badge](https://img.shields.io/badge/Hotmail-0078D4?logo=Outlook&logoColor=fff&style=flat)</a>
 <a href = 'https://discordapp.com/users/894678781418147870'> ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)</a>
 <a href = 'https://www.facebook.com/mono.lito.186'> ![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=fff&style=flat)</a>
+<a href = 'https://www.instagram.com/chiguirito19/'> ![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=fff&style=flat)</a>
+<a href = 'https://t.me/BadOmensDEV'> ![Telegram Badge](https://img.shields.io/badge/Telegram-%231877F2?logo=telegram&logoColor=fff&style=flat)</a>
   
 <br>
 <br>
