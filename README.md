@@ -90,8 +90,9 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 
-![JDPR19 github stats](https://github-readme-stats.vercel.app/api?username=JDPR19&show_icons=true&theme=tokyonight)
-![JDPR19 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDPR19&theme=tokyonight&layout=compact)
+![JDPR19 github stats](https://github-readme-stats.vercel.app/api?username=JDPR19&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true
+)
+![JDPR19 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDPR19&theme=synthwave&layout=compact)
 
 <Hr>
 
