@@ -2,7 +2,7 @@
 
 <div align='center'>
   
-  <h1> Hi, I'm Jesus Daniel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+  <h1> Hi, I'm Jesús Daniel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 </div>
 
